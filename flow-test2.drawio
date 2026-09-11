@@ -40,7 +40,7 @@
         <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lane" target="ok">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="note1" value="AI 生成的复杂测试图：椭圆、菱形、泳道、五条连线，用来验证同步稳定性" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;fillColor=#FFF9B2;strokeColor=none;shadow=1;size=12;" vertex="1" parent="1">
+        <mxCell id="note1" value="第二轮：AI 原地更新同一个文件，测试写入稳定性" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;fillColor=#FFF9B2;strokeColor=none;shadow=1;size=12;" vertex="1" parent="1">
           <mxGeometry x="560" y="500" width="240" height="120" as="geometry" />
         </mxCell>
       </root>
